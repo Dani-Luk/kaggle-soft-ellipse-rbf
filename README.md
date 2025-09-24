@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE.md)
 
-_A neural network approach using Soft Elliptical Radial Basis Functions for intelligent non-convex shape classification with incremental learning and real-time visualization._
+_A neural network approach using Soft Elliptical Radial Basis Functions for non-convex shape classification with incremental learning and real-time visualization._
 
 ## 🌟 Overview
 
@@ -142,7 +142,7 @@ The algorithm consistently achieves excellent performance across diverse shapes:
 - **Scikit-learn** (for DBSCAN clustering)
 - **Matplotlib** (for visualization)
 - **Jupyter Notebook**
-- **ipywidgets** (for interactive components)
+- **ipywidgets** (for live logging/plotting and interactive canvas controls)
 - **ipycanvas** (optional, for drawing interface)
 
 ## 📝 Usage Examples

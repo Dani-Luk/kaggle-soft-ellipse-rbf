@@ -1,0 +1,23 @@
+# Core Machine Learning Libraries
+tensorflow>=2.10.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Data Visualization
+matplotlib>=3.5.0
+
+# Jupyter Notebook Support
+ipywidgets>=8.0.0
+IPython>=8.0.0
+
+# Interactive Canvas (Optional - for drawing interface)
+# Note: ipycanvas may not work in all environments (e.g., Kaggle)
+# Uncomment the next line if you want to use the interactive drawing canvas
+# ipycanvas>=0.13.0
+
+# Standard Library Dependencies (included with Python)
+# typing - Built-in since Python 3.5
+# time - Built-in
+# random - Built-in
+# os - Built-in
+# warnings - Built-in
