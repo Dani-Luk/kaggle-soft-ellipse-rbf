@@ -10,6 +10,18 @@ _A neural network approach using Soft Elliptical Radial Basis Functions for non-
 
 This project demonstrates an innovative **Soft Ellipse Radial Basis Function (RBF)** network that performs non-convex shape classification through intelligent incremental learning. The algorithm strategically places elliptical RBF units to cover positive regions, refines error clusters using DBSCAN, and prunes insignificant units for optimal performance.
 
+---
+
+### 🎥 Demo
+
+Quick glimpse of training on an S-shape dataset:
+
+![S-Shape training demo](assets/s_shape_training.gif)
+
+👉 [Watch the full 26s demo on YouTube](https://youtu.be/xSYIDTLNT4Q)
+
+---
+
 ### Key Features
 
 - **🔧 Soft Elliptical RBF Units**: Parameterized by center coordinates, semi-axes, rotation angle, and sigmoid sharpness
